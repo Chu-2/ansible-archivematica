@@ -1,5 +1,5 @@
 ---
-- hosts: "hostname"
+- hosts: all
 
   pre_tasks:
 
